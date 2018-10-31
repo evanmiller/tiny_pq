@@ -8,7 +8,7 @@
         stdlib
     ]},
     {env, []}
-    {maintainers, ["ErlyORM"]},
+    {maintainers, ["ChicagoBoss Team"]},
     {licenses, ["MIT/X11"]},
     {links, [
     	{"Github", "https://github.com/ChicagoBoss/tiny_pq"}
