@@ -1,5 +1,5 @@
 ERL=erl
-REBAR=./rebar3
+REBAR=rebar3
 GIT = git
 REBAR_VER = 3.6.2
 DB_CONFIG_DIR=priv/test_db_config
