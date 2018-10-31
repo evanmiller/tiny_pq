@@ -7,7 +7,7 @@
         kernel,
         stdlib
     ]},
-    {env, []}
+    {env, []},
     {maintainers, ["ChicagoBoss Team"]},
     {licenses, ["MIT/X11"]},
     {links, [

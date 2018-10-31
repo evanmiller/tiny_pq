@@ -3,7 +3,6 @@ GIT = git
 REBAR = rebar3
 REBAR_VER = 3.6.2
 
-
 all: compile
 
 compile:
