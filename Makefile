@@ -3,7 +3,6 @@ GIT = git
 REBAR = rebar3
 REBAR_VER = 3.6.2
 
-.PHONY: test
 
 all: compile
 
@@ -32,5 +31,6 @@ clean:
 	@$(REBAR) clean
 	rm -fv erl_crash.dump
 
+.PHONY: test
 test:
 	@$(REBAR) eunit
